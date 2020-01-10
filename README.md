@@ -6,4 +6,4 @@ One off scripts and tools I use for bioinformatics things
 ## Tool List
 
 * ***metaphlan_parser.py***
-** This program is designed to take metaphlan2 data converted with `metaphlan2krona.py` and format everything into a nice table for downstream work in `R`.
+  * This program is designed to take metaphlan2 data converted with `metaphlan2krona.py` and format everything into a nice table for downstream work in `R`.
