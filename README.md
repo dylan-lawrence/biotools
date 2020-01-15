@@ -12,4 +12,4 @@ One off scripts and tools I use for bioinformatics things
 ## Accesory Files List
 
 * ***well_table.txt***
- * Easy to import data table numbering wells on a plate, order is column first.
+  * Easy to import data table numbering wells on a plate, order is column first.
